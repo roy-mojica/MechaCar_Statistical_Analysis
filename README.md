@@ -18,3 +18,9 @@ Analysis using R
 - Does this linear model predict mpg of MechaCar prototypes effectively? Why or why not?
 
   Using the Adjusted R-Value shows are model predicts the MPG of teh prototypes at a value of 0.6825 or 68.25%, out of a scale of 0 - 100%. This means, there are other variables and factors that contribute to the variation in mpg that have not been included in our model. These variables may or may not be within our dataset and may still need to be collected or observed.
+
+## Summary Statistics on Suspension Coils
+
+<img src="">
+
+- The design specifications for the MechaCar suspension coils dictate that the variance of the suspension coils must not exceed 100 pounds per square inch. Does the current manufacturing data meet this design specification for all manufacturing lots in total and each lot individually? Why or why not?
