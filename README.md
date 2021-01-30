@@ -33,5 +33,15 @@ Analysis using R
 
 ## T-Tests on Suspension Coils
 
-<img src="">
+### T-Test All Lots
+<img src="https://github.com/roy-mojica/MechaCar_Statistical_Analysis/blob/main/images/t_test.PNG">
+
+### T-Test Lot 1
+<img src="https://github.com/roy-mojica/MechaCar_Statistical_Analysis/blob/main/images/t_test_lot1.PNG">
+
+### T-Test Lot 2
+<img src="https://github.com/roy-mojica/MechaCar_Statistical_Analysis/blob/main/images/t_test_lot2.PNG">
+
+### T-Test Lot 3
+<img src="https://github.com/roy-mojica/MechaCar_Statistical_Analysis/blob/main/images/t_test_lot3.PNG">
 
