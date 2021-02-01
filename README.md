@@ -48,3 +48,19 @@ Assuming the significance level is at 0.05, we see that the p-value for lot2 is 
 ### T-Test Lot 3
 <img src="https://github.com/roy-mojica/MechaCar_Statistical_Analysis/blob/main/images/t_test_lot3.PNG">
 Assuming the significance level is at 0.05, we see that the p-value for lot3 is 0.04168 which is lower than our significance level. This implys that the distribution of data is significantly differnet from the normal distribution, and we cannot assume normality. 
+
+## Study Design: MechaCar vs Competition
+
+Here, we are comparing how the MechaCar perfomrs against its other competitors. Some metrics that would be of interest to most consumers are cost, city or highway fuel, efficiency, horse power, maintenance cost, and safety rating. In order to do this we want to answer four differnet questionswhich are: 
+
+### What metric or metrics are you going to test?
+ I would want to test "cost" as this would would interesting to see where MechaCar lands amoungts other competitors. This is usually top of the list for consumers as well when they are in the market for a car. 
+ 
+### What is the null hypothesis or alternative hypothesis?
+The null hypothesis is that the researcher's prediction is not true. In this case we would predict that MechaCar has its car similarly priced to its competitors. The alternative hypothesis is that the researcher's predicted difference is true.
+
+### What statistical test would you use to test the hypothesis? And why?
+For this use case, we could want to perform a sample T-Test which will give us a way to decide between a null hypothesis and an alternative hypothesis.
+
+### What data is needed to run the statistical test?
+We would need to take sample data from MechaCar and its competitors and run the T-Test. We would take to the p-value outputted from the test, and if the value was greater than 0.05, this would implying that the distribution of the data is not significantly different from normal distribtion. In other words, we can assume the normality and the fact that Mechacar has its vehicle priced similar to its competition.
