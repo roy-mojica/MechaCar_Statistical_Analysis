@@ -35,13 +35,16 @@ Analysis using R
 
 ### T-Test All Lots
 <img src="https://github.com/roy-mojica/MechaCar_Statistical_Analysis/blob/main/images/t_test.PNG">
+Assuming the significance level is at 0.05, we see that the p-value for all lots is 0.06028 which is greater than our significance level. This implys that the distribution of data is not significantly differnet from the normal distribution, and we can assume normality. 
 
 ### T-Test Lot 1
 <img src="https://github.com/roy-mojica/MechaCar_Statistical_Analysis/blob/main/images/t_test_lot1.PNG">
+Assuming the significance level is at 0.05, we see that the p-value for lot1 is 1 which is greater than our significance level. This implys that the distribution of data is not significantly differnet from the normal distribution, and we can assume normality. 
 
 ### T-Test Lot 2
 <img src="https://github.com/roy-mojica/MechaCar_Statistical_Analysis/blob/main/images/t_test_lot2.PNG">
+Assuming the significance level is at 0.05, we see that the p-value for lot2 is 0.6072 which is greater than our significance level. This implys that the distribution of data is not significantly differnet from the normal distribution, and we can assume normality. 
 
 ### T-Test Lot 3
 <img src="https://github.com/roy-mojica/MechaCar_Statistical_Analysis/blob/main/images/t_test_lot3.PNG">
-
+Assuming the significance level is at 0.05, we see that the p-value for lot3 is 0.04168 which is lower than our significance level. This implys that the distribution of data is significantly differnet from the normal distribution, and we cannot assume normality. 
